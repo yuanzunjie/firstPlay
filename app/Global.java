@@ -36,7 +36,7 @@ public class Global extends GlobalSettings {
 /*		Factory<SecurityManager> factory = new IniSecurityManagerFactory("classpath:shiro.ini");
 		SecurityManager securityManager = factory.getInstance();
 		SecurityUtils.setSecurityManager(securityManager);*/
-		
+		System.out.println("=====================测试正在运行！");
 		System.out.println("=======================启动权限模块已经结束");
 		
 		
